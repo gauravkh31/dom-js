@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+
+.paragraph{
+    display: flex;
+   justify-content: center;
+   padding-top: 60px;
+   padding-left: 150px;
+   padding-right: 150px;
+    
+}
